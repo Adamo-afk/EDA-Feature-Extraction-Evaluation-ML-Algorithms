@@ -1,2 +1,2 @@
-# EDA, feature extraction, and evaluation of ML algorithms for anomaly detection
+# Evaluation of ML algorithms on ECG Heartbeat dataset
 This project consists of viewing and "exploring" the data of the RacketSports dataset and the ECG Heartbeat Categorization dataset through the use of the method known as Exploratory Data Analysis, analyzing ML algorithms on extracted features such as SVM, RandomForest, and GradientBoostedTrees and their performance through the use of the Grid Search method, and analyzing different neural network architectures such as the Multi-Layerd Perceptron, a Convolutional Neural Network known as InceptionTime, and a Recurrent Neural Network known as Long Short-Term Memory on the same extracted features.
